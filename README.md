@@ -1,4 +1,4 @@
-# codingprojects
+# Codingprojects
 Here are some of the projects I have completed (Java and Python) as part of coursework for my undergrad degree at Warwick.
 Below is a description of what the project is about
 Python Assignment 2:  Solved a simple SIR model and examined the solution for one set
